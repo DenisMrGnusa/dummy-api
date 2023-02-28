@@ -7,5 +7,16 @@
             "tgl_dikirim": "03/02/2022",
             "tgl_diterima": "03/02/2022"
         }
+    ],
+    "jidokwan_event": [
+        {
+            "id": "1677328520107", 
+            "title": "The Jidokwan Indonesia", 
+            "date": 1677929400000, 
+            "desc": "77th Jidokwan Anniversary, Han Championship. Pakuwon mall solo baru.", 
+            "place": "Pakuwon Mall Solo Baru", 
+            "address": "Jl. Ir. Soekarno, Dusun II, Madegondo, Kec. Grogol, Kabupaten Sukoharjo, Jawa Tengah 57552",
+            "image": "https://raw.githubusercontent.com/DenisMrGnusa/dummy-api/main/jidokwan-event.jpeg",
+        }
     ]
 }
